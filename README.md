@@ -15,7 +15,7 @@
 
 [American Library Association - Privacy: An Interpretation of the Library Bill of Rights](http://www.ala.org/advocacy/intfreedom/librarybill/interpretations/privacy)
 
-[American Library Association - Privacy Tool Kitt](http://www.ala.org/advocacy/privacyconfidentiality/toolkitsprivacy/privacy)
+[American Library Association - Privacy Tool Kit](http://www.ala.org/advocacy/privacyconfidentiality/toolkitsprivacy/privacy)
 > Primarily aimed at libraries/librarians. Tools and resources for understanding patron rights to privacy.
 
 [ACLU: Privacy and Technology](https://www.aclu.org/issues/privacy-technology)
